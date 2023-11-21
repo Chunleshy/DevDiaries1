@@ -5,15 +5,9 @@ Born out of passion to raise new generation of developers. DevDiaries aims to em
 # Executive summary 
 The blog app will serve as a virtual community where individuals with limited technical expertise can engage with knowledgeable professionals from various fields of technology. The app will provide a supportive environment for beginners to learn and grow, as well as enable professionals to share their knowledge and mentor the next generation.
 ## Benefits: 
-a. Learning Opportunities for Tech Newbies: Newbies will have access to a wealth of knowledge shared by professionals, allowing them to learn concepts, best practices, and strategies from experienced individuals. 
-b. Networking and Collaboration: The app will encourage users to connect with like-minded individuals and foster collaborations.<br>
-c. Professional Growth for Mentors: Professionals will have the chance to share their expertise, strengthen their leadership and communication skills, and contribute to the growth of aspiring individuals.
-
-##Key Features: a. User Profiles: Users will create profiles with their background, interests, and skill levels. This information will help in matching tech newbies with suitable professionals. 
-b. Blogging Platform: Users can create and publish blog posts to share their experiences, and insights with the community. 
-c. Mentorship Matching: The app will utilize algorithms to match tech newbies with professionals based on their interests, skills, and preferences.
-
-
+1. Learning Opportunities for Tech Newbies: Newbies will have access to a wealth of knowledge shared by professionals, allowing them to learn concepts, best practices, and strategies from experienced individuals. 
+2. Networking and Collaboration: The app will encourage users to connect with like-minded individuals and foster collaborations.<br>
+3. Professional Growth for Mentors: Professionals will have the chance to share their expertise, strengthen their leadership and communication skills, and contribute to the growth of aspiring individuals.
 
 
 
