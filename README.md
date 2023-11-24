@@ -12,9 +12,6 @@ The blog app will serve as a virtual community where individuals with limited te
 
 
 
-
-
-
 ## Installation
 
 Follow these steps to get the project up and running on your local machine.
@@ -73,7 +70,7 @@ For help getting started with Django development, view the
 [online documentation](https://docs.djangoproject.com/en/4.2/)), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+This App is Licensed under [MIT Lisence.](https://github.com/Chunleshy/DevDiaries/blob/main/LICENSE)
 
 
 
