@@ -43,6 +43,7 @@ source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
 pip install -r requirements.txt
 ```
 
+## Getting Started
 ### Apply Migrations
 ```bash
 python manage.py migrate
@@ -60,6 +61,17 @@ python manage.py runserver
 
 Visit http://localhost:8000 in your browser to view the web app.
 
+
+***************
+We use the following websites to gather information:<br>
+[Lab: Write your first Django app](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)<br> 
+[Git Tutorial](https://www.githubtutorial.com)<br>
+[Python Tutorial](https://www.pythontutorial.com). <br>
+
+
+For help getting started with Django development, view the
+[online documentation](https://docs.djangoproject.com/en/4.2/)), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 
 
